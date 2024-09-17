@@ -1,4 +1,4 @@
-module github.com/victormilk/client-server-api
+module github.com/victormilk/fullcycle-client-server-api
 
 go 1.22.7
 
