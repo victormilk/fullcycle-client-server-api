@@ -15,8 +15,8 @@ This project consists of a client-server application where the server fetches cu
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/victormilk/client-server-api.git
-    cd client-server-api
+    git clone https://github.com/victormilk/fullcycle-client-server-api.git
+    cd fullcycle-client-server-api
     ```
 
 2. Install dependencies:
